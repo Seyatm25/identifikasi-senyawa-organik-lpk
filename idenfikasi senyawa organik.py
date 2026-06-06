@@ -639,7 +639,7 @@ elif pilihan_halaman == "📕 BAB IV. ASAM KARBOKSILAT DAN DERIVATNYA":
     st.latex(r"3\text{R-CONH-OH} + \text{FeCl}_3 \rightarrow \text{Fe(R-CONHO)}_3 \text{ (Kompleks Ungu)} + 3\text{HCl}")
 
 elif pilihan_halaman == "🔬 POST TEST":
-    st.title("🔀 Smart Flowchart Auto-Analyzer (Step-by-Step)")
+    st.title("🔀 Asisten Identifikasi Cerdas (Step-by-Step)")
     st.write("Sistem ini mensimulasikan penelusuran Identifikasi Kualitatif Golongan Fungsi secara otomatis berderet.")
 
     if not st.session_state.test_started:
